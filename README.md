@@ -1,0 +1,1 @@
+ This is the repository for my personal site hosted using github pages. I have another site for a project hosted via NGINX and Apache at home, but needed something less prone to me unplugging it to fix something.
